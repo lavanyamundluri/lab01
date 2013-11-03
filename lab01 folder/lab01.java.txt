@@ -1,2 +1,5 @@
 public class lab01{
+
+public void main(String[] args){
+}
 }
